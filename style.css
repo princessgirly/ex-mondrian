@@ -1,0 +1,38 @@
+html, body{
+  height: 100%;
+  margin:0px;
+  padding:0px;
+}
+html {
+  padding:0px;
+}
+#blanc{
+  box-sizing: border-box;
+  float:left;
+  width: 25%;
+  height: 100%;
+  background-color: white;
+  border-color: black;
+  border-width:10px;
+  border-style: solid;
+  border-bottom-style: none;
+  border-top-style: none;
+  border-left-style: none;
+}
+#creme{
+  box-sizing: border-box;
+  background-color: white;
+  border-color: black;
+  height: 50%;
+  border-color: black;
+  border-width:10px;
+  border-style: solid;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+}
+#rouge{
+  box-sizing: border-box;
+  background-color: red;
+  height: 50%;
+}
