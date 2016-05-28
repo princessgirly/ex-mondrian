@@ -19,9 +19,9 @@ html {
   border-top-style: none;
   border-left-style: none;
 }
-#creme{
+#gris{
   box-sizing: border-box;
-  background-color: white;
+  background-color: #c0c0c0;
   border-color: black;
   height: 50%;
   border-color: black;
